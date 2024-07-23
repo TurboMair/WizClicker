@@ -2,6 +2,7 @@
  An autoclicker for Wiz101
 
  This program is used to farm battles. I would suggest building a deck with 3 copies of an AOE and (if you aren't death) a healing spell like Pixie or Unicorn (Something that doesn't require further selection after clicked)
+ This program is not smart!! It only runs inputs on a loop. However, that means this program is very lightweight and requires no setup (besides the deck)
 
  It will attempt to:
  *  Walk backwards, forward slightly less than the length of a battle circle, and then backwards again
